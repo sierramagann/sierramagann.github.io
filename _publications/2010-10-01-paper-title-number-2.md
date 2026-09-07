@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Early Intervention for Adolescents with Borderline Personality Symptoms: Pragmatic Trial of a Short-Term Group"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://www.tandfonline.com/doi/full/10.1080/23794925.2026.2687461
+excerpt: # 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2026-06-16
+venue: 'Evidence-Based Practice in Child and Adolescent Mental Health'
+
+citation: 'Bartsch, D. R., van Roekel, H., Price, J. C., Magann, S., & Cooke-O’connor, L. (2026). Early Intervention for Adolescents with Borderline Personality Symptoms: Pragmatic Trial of a Short-Term Group. Evidence-Based Practice in Child and Adolescent Mental Health, 1–16. https://doi.org/10.1080/23794925.2026.2687461'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
