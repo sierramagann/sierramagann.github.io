@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Assignment Grading"
+collection: marking
+type: "Undergraduate course: 3rd Year Psychology"
+permalink: # /teaching/2014-spring-teaching-1
+venue: "Adelaide University, School of Psychology"
+date: 2026-06-01
+location: "Adelaide, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+-	Standard marking activities for the Learning & Behaviour (PSYC 3043) course
+-	Understanding and evaluation of a third-year level practical report
+
 
 Heading 1
 ======
